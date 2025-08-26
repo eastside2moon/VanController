@@ -1,0 +1,9 @@
+.\iwstack\cjson.o: ..\..\+Component\Protocol\cJSON.c
+.\iwstack\cjson.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\iwstack\cjson.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\iwstack\cjson.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\iwstack\cjson.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\iwstack\cjson.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\float.h
+.\iwstack\cjson.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\iwstack\cjson.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\iwstack\cjson.o: ..\..\+Component\Protocol\cJSON.h

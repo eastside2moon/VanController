@@ -1,0 +1,11 @@
+.\iwstack\mqttsubscribeclient.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTSubscribeClient.c
+.\iwstack\mqttsubscribeclient.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTPacket.h
+.\iwstack\mqttsubscribeclient.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTConnect.h
+.\iwstack\mqttsubscribeclient.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTPublish.h
+.\iwstack\mqttsubscribeclient.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTSubscribe.h
+.\iwstack\mqttsubscribeclient.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTUnsubscribe.h
+.\iwstack\mqttsubscribeclient.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTFormat.h
+.\iwstack\mqttsubscribeclient.o: ..\..\+Component\Protocol\mqtt_mbed\StackTrace.h
+.\iwstack\mqttsubscribeclient.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\iwstack\mqttsubscribeclient.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTPacket.h
+.\iwstack\mqttsubscribeclient.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\string.h

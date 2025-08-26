@@ -1,0 +1,11 @@
+.\iwstack\mqttpacket.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTPacket.c
+.\iwstack\mqttpacket.o: ..\..\+Component\Protocol\mqtt_mbed\StackTrace.h
+.\iwstack\mqttpacket.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\iwstack\mqttpacket.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTPacket.h
+.\iwstack\mqttpacket.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTConnect.h
+.\iwstack\mqttpacket.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTPublish.h
+.\iwstack\mqttpacket.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTSubscribe.h
+.\iwstack\mqttpacket.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTUnsubscribe.h
+.\iwstack\mqttpacket.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTFormat.h
+.\iwstack\mqttpacket.o: ..\..\+Component\Protocol\mqtt_mbed\MQTTPacket.h
+.\iwstack\mqttpacket.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\string.h
